@@ -1,0 +1,11 @@
+.bg{
+    background-image: url(../../assets/img/slide/slide-4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center center;
+    height: 500px;
+}
+.container{
+    height: auto;
+    background-color: #e4e4e4c4;
+}
